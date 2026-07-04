@@ -1,4 +1,4 @@
-# Instrucciones para evaluación de Tesinas UACh <img src="http://www.icml.uach.cl/manejador/resources/documentos/escudo-transparente.png" alt="drawing" height="100" align="right"/>
+# Instrucciones para evaluación de Tesinas UACh <img src="https://www.uach.cl/uach/_imag/logo-uach-completo.svg" alt="Universidad Austral de Chile" height="80" align="right"/>
 ### Aspectos a evaluar
 El objetivo de la Tesina de Titulación es producir un documento escrito que demuestre la capacidad y habilidad del egresado de la Escuela de Odontología de la UACh para resolver un problema mediante el método científico.
 
@@ -14,11 +14,11 @@ El documento debe contener la información suficiente que permita:
 
       b) Métodos: ¿cómo se estudiará el problema?
   
-      c) Resultados: ¿qué se encontró
+      c) Resultados: ¿qué se encontró?
   
       d) Discusión: ¿qué significan los resultados obtenidos?
   
-      e) Referencias: ¿quienes han trabajo en este tema anteriormente?
+      e) Referencias: ¿quiénes han trabajado en este tema anteriormente?
 
 # Organización de los contenidos 
 ### Título
